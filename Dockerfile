@@ -1,5 +1,5 @@
 FROM ubuntu:19.10
-MAINTAINER Antony Messerli <amesserl@rackspace.com>
+MAINTAINER Antony Messerli <antony@mes.ser.li>
 
 # Install BOINC
 RUN apt-get update && apt-get install -y boinc-client
